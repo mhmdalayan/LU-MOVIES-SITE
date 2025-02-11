@@ -116,7 +116,7 @@ window.addEventListener("scroll", function() {
   function displayMovieDetails(movie) {
     document.body.innerHTML = `
         <div style="font-family: Arial, sans-serif; color: white; background-color: #1c1c1c; padding: 30px; max-width: 1000px; margin: auto; border-radius: 10px;">
-            <a href="index.html" style="
+            <a href="home.html" style="
                 display: inline-block;
                 margin-bottom: 20px;
                 padding: 10px 20px;
