@@ -1144,3 +1144,35 @@ const yellowstone = {
     ],
     languages: ["Korean", "English", "Portuguese", "Spanish", "Mandarin", "Russian", "Thai"]
 };
+const Sonic ={
+    title: "Sonic",
+    image: "logo/sonic.jpg",
+    description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium harum blanditiis delectus. Voluptatem, incidunt ducimus quas rem amet at voluptas veniam nobis numquam pariatur? Provident, dolor a! Earum, fuga quisquam.",
+    score: 81,
+    releaseDate: "2024-12-31",
+    genres: ["Thriller", "Comedy", "Action"],
+    duration: 122,
+    trailer: "https://www.youtube.com/embed/qSu6i2iFMO0?si=deItML9YSjyqapDT,",
+    cast: [
+        { name: "Actor 1", image: "logo/actors/actor.3.jpg" },
+        { name: "Actor 2", image: "logo/actors/actor.jpg" },
+        { name: "Actor 3", image: "logo/actors/actor2.jpg" }
+    ],
+    languages: ["Korean", "English", "Portuguese", "Spanish", "Mandarin", "Russian", "Thai"]
+};
+const Gameofthrones = {
+    title: "Game Of Thrones ",
+    image: "logo/got.jpg",
+    description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est soluta non corrupti officia ipsam aspernatur dolorem aliquid quo nobis, error cumque sequi eveniet quasi fugit ullam asperiores repudiandae, culpa tempore.",
+    score: 67,
+    releaseDate: "2024-12-31",
+    genres: ["Thriller", "crime", "Action"],
+    duration: 45,
+    trailer: "https://www.youtube.com/embed/KPLWWIOCOOQ?si=Pu8aIDOUToOngeRY",
+    cast: [
+        { name: "Actor 1", image: "logo/actors/actor.3.jpg" },
+        { name: "Actor 2", image: "logo/actors/actor.jpg" },
+        { name: "Actor 3", image: "logo/actors/actor2.jpg" }
+    ],
+    languages: ["Korean", "English", "Portuguese", "Spanish", "Mandarin", "Russian", "Thai"]
+};

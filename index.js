@@ -1090,7 +1090,7 @@ const vampirediaries = {
 };
 const squidgame = {
     title: "Squid Game",
-    image: "logo/ranking/AAAABaeZRVA4mOQJW9FTbkuPUDDe7RF3RUm_VLoxEskNGiSv4i9pAlrCQ13YsmuBbplxrXnFe5NyxILr1MKaUvvNCnz17atkfsC9U01mvjT8BMqqZyxZo5sOo11_AZz2YmJj1M1A9A.jpg",
+    image: "logo/ranking/squid game.jpg",
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est soluta non corrupti officia ipsam aspernatur dolorem aliquid quo nobis, error cumque sequi eveniet quasi fugit ullam asperiores repudiandae, culpa tempore.",
     score: 87,
     releaseDate: "2024-12-31",
@@ -1106,7 +1106,7 @@ const squidgame = {
 };
 const MO = {
     title: "MO",
-    image: "logo/ranking/AAAABdNnc39Ry6wt0uyYEoVu33eGXHQxlxOuFyQ6J6XyKXlM1svaP_AUPM_7Bu-zqH1PBCCXxRloeFojBybAyYzZt04I7ZPwmMh7Hy1wMNw4Zaqe2NbS8cMyxY0D5W-nkdA7bum9dWb4hsiZrGMvzi8WlYjwM6E31Mh8ptC8uaMrEBb7T8bbn5aSpHWp8ykEEeRcH0A4eGeA5Hp9J.jpg",
+    image: "logo/ranking/MO.jpg",
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est soluta non corrupti officia ipsam aspernatur dolorem aliquid quo nobis, error cumque sequi eveniet quasi fugit ullam asperiores repudiandae, culpa tempore.",
     score: 87,
     releaseDate: "2024-12-31",
@@ -1122,7 +1122,7 @@ const MO = {
 };
 const theRecruit = {
     title: "the Recruit",
-    image: "logo/ranking/AAAABdZD4ldDngQKIvSIS5AOKD8ayizJRLsok0qhbQrQh_AkteXWCRE-wXebyrxk2Ff9EEo6uDBRCvxYMLRAlepLEgOgZL-snx_VDTdncy_5QsWpqK-SWjuzjzFqHFvDDJGcbJO8zj1WCSwNJl82hwVOLIBDserHImqaRNzM4faZRVewkoobM495ELMOcaJfUCw_jWRGuVC8rSLxU.jpg",
+    image: "logo/ranking/the recruit.jpg",
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est soluta non corrupti officia ipsam aspernatur dolorem aliquid quo nobis, error cumque sequi eveniet quasi fugit ullam asperiores repudiandae, culpa tempore.",
     score: 67,
     releaseDate: "2024-12-31",
@@ -1138,7 +1138,7 @@ const theRecruit = {
 };
 const theNightAgent = {
     title: "The Night Agent",
-    image: "logo/ranking/AAAABQBNSVne4TxHLLiQ9e4G6TZwkZLqcU1et9uqbh1CdiWubJFYfwb1j0UoLAiQbJ0_Hw3FAhzjwFEQ-PWg3pwkZC2-pPT8oWehl0f7n7aUuCyO4PZ_-ijmIv-SeaxKir7ugJwF-PAcEDdHIaBuiu1j3KBNkLaQ_GbJjBsMyuhxMWrPAg0Jd_NCHwJ16Nwkv9F55Ktay6koQ8lmJ.jpg",
+    image: "logo/ranking/the night agent.jpg",
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est soluta non corrupti officia ipsam aspernatur dolorem aliquid quo nobis, error cumque sequi eveniet quasi fugit ullam asperiores repudiandae, culpa tempore.",
     score: 67,
     releaseDate: "2024-12-31",
@@ -1154,7 +1154,7 @@ const theNightAgent = {
 };
 const RoyalRumble = {
     title: "Royal Rumble",
-    image: "logo/ranking/AAAABRXgNPxzo3UlpTd0xZSVxLb926yiFOYoYjjAn1Lv1hgXxNKheiO4Qvbe-x8EiUiMRmTrjp5H7bR-_PiN3X3ssLDS1tgtMViGcZN8EYZncMRpRbJD8x3adSkZu1rbK-Q9mOhXsuFdv3ZV0fdbg0L70gU2uzO5Ol9u4a89NRaR3POfrKqff8wl5UNydQ5rF9Pb9dZ88WkIgLdl3fczLG.jpg",
+    image: "logo/ranking/the royal rumble.jpg",
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est soluta non corrupti officia ipsam aspernatur dolorem aliquid quo nobis, error cumque sequi eveniet quasi fugit ullam asperiores repudiandae, culpa tempore.",
     score: 67,
     releaseDate: "2024-12-31",
@@ -1170,7 +1170,7 @@ const RoyalRumble = {
 };
 const thetrauma = {
     title: "The Trauma Code Heroes on Call",
-    image: "logo/ranking/AAAABVCNjCLKqeA2Dfz0CcqOSt68jkZPpMNJlDe-E-2_hTJObT47qoqhp76b9xCs2pr_6jtxuEWIAZNQ2-bJy2xLvvl8AU9qNl1Ua8JtgOJTOVY6y501z_567auxH3wAwfvvjnzJ_PWWzx54uKvRylz8wsK9Yupv2be3Swe2OOB1QC-bgBfEiqJGkmMxIsn2eFInNzDraBK9Ouuk-b93nQ.jpg",
+    image: "logo/ranking/trauma.jpg",
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est soluta non corrupti officia ipsam aspernatur dolorem aliquid quo nobis, error cumque sequi eveniet quasi fugit ullam asperiores repudiandae, culpa tempore.",
     score: 67,
     releaseDate: "2024-12-31",
@@ -1186,7 +1186,7 @@ const thetrauma = {
 };
 const yellowstone = {
     title: "Yellowstone",
-    image: "logo/ranking/AAAABTWgrIBQxH7MLJiD5yvfSDGX806ar9LqgAvYCHbDPXd0jeNRZkNxKZEYYOuFLFXDVKqcXjM02d2l5w1qtrhhkYf7JA2wyw9WdRjpY3c2zagyUsqC6o5kMKt_TOtmn7IzE9dCptX13lV4tenlmRGHKJZW1uim51nwnWIzr4Qik8v0HTq1D_UhUQ2-zBBno5EoAAymnnsPrKKjC.jpg",
+    image: "logo/ranking/yellowstone.jpg",
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est soluta non corrupti officia ipsam aspernatur dolorem aliquid quo nobis, error cumque sequi eveniet quasi fugit ullam asperiores repudiandae, culpa tempore.",
     score: 67,
     releaseDate: "2024-12-31",
